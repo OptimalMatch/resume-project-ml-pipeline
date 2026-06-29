@@ -2,7 +2,7 @@
 
 Build a complete machine learning project in Python: load a real public dataset, explore it, engineer features, train and evaluate a supervised model, and write up what you found. Pick any domain you like (housing prices, customer churn, loan default, wine quality).
 
-**📘 Full step-by-step guide:** https://alignresume.com/projects/ml-prediction-pipeline/
+**📘 Full step-by-step guide:** https://alignresume.com/projects/ml-prediction-project/
 
 > Build it under **your own GitHub account**, committing per milestone.
 
